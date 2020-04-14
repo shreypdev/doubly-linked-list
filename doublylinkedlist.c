@@ -1,8 +1,7 @@
 /*
  * Partial Double linked-list implementation in C11
- * Course CSC 360, University of Vicoria
  *
- * Assignment number 01, Jan 2019
+ * Date: Jan 2019
  *
  * Use this command to compile the code:
  * gcc -std=c11 -pedantic-errors doublylinkedlist.c -o doublylinkedlist
@@ -11,7 +10,6 @@
  * ./doublylinkedlist
  *
  *
- * Your task is to complete the swap and shift_left function
  *
  * Expected output:
  * Intial list: 2 3 4 5 8 11 14 14
