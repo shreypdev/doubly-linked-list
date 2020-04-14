@@ -1,5 +1,5 @@
 /*
- * Partial Double linked-list implementation in C11
+ * Double linked-list implementation in C
  *
  * Date: Jan 2019
  *
